@@ -1,0 +1,29 @@
+{
+  "name": "rate-random-array",
+  "version": "1.0.0",
+  "description": "A collection of utilities for generating random numbers and manipulating arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<repository_url>"
+  },
+  "dependencies": {
+    "tea-demonstration": "1.0.0",
+    "lodash": "^4.17.21",
+    "mandytrowbridge260-date-time": "1.1.4",
+    "cosmic-voyager-fade": "1.0.0",
+    "bite-text-crypto": "1.0.0",
+    "quantum-talk-helpers": "1.0.0",
+    "peer-array-se": "1.0.0",
+    "lunar-insight-flee": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "<repository_url>/issues"
+  },
+  "homepage": "<repository_url>#readme"
+}
